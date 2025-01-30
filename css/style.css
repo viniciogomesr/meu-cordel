@@ -70,7 +70,7 @@ section.imagem > p {
 
 section#img01 {
     background-color: #000000;
-    background-image: url('images/background001.jpg');
+    background-image: url('../images/background001.jpg');
     padding: 50px 0px 50px 0px;
     background-position: right center;
     background-size: cover;
@@ -80,7 +80,7 @@ section#img01 {
 
 section#img02 {
     background-color: #000000;
-    background-image: url('images/background002.jpg');
+    background-image: url('../images/background002.jpg');
     padding: 50px 0px 50px 0px;
     background-position: right center;
     background-size: cover;
